@@ -1,4 +1,5 @@
 ### Hi there 👋
+👯 I’m looking to collaborate on how to hack stuff...
 
 <!--
 **slmjld/slmjld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
